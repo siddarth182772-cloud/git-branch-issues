@@ -1,8 +1,9 @@
 # Basic Python Program
 
 # Variables
-name = "Siddarth"
-age = 22
+name = "Siddarth_lucifer"
+age = 21
+
 
 # Print statements
 print("Hello, " + name + "!")
