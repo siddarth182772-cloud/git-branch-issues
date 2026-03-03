@@ -1,7 +1,7 @@
 # Basic Python Program
 
 # Variables
-name = "Father"
+name = "Mother"
 age = 21
 
 
