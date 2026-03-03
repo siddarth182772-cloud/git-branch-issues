@@ -17,7 +17,7 @@ greet(name)
 
 # Arithmetic operations
 a = 110
-b = 5
+b = 50
 
 print("Addition:", a + b)
 print("Subtraction:", a - b)
