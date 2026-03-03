@@ -2,7 +2,7 @@
 
 # Variables
 name = "Siddarth"
-age = 21
+age = 22
 
 # Print statements
 print("Hello, " + name + "!")
