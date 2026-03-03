@@ -16,8 +16,8 @@ def greet(user):
 greet(name)
 
 # Arithmetic operations
-a = 10
-b = 5
+a = 110
+b = 50
 
 print("Addition:", a + b)
 print("Subtraction:", a - b)
