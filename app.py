@@ -1,7 +1,7 @@
 # Basic Python Program
 
 # Variables
-name = "Siddarth_lucifer"
+name = "Father"
 age = 21
 
 
